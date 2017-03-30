@@ -16,6 +16,6 @@ public class GravityConstant implements GravityModel{
 
     @Override
     public double getGravitationalField() {
-        return EARTH_GRAVITY;
+        return gravity;
     }
 }
