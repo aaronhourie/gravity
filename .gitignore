@@ -12,6 +12,11 @@
 hs_err_pid*
 /target/
 
+# Eclipse IDE files
 .classpath
 .project
 .settings/
+
+# Intellij IDE files
+.idea/
+gravity.iml
